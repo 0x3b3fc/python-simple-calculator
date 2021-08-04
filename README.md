@@ -1,2 +1,2 @@
 # python-simple-calculator
-Python simple calculator (GUI)
+To test it you should using python version 3.*
